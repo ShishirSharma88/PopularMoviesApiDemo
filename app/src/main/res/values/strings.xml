@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_images">Movie Images</string>
+    <string name="no_title">No Title</string>
+    <string name="no_rating">No Rating Available</string>
+    <string name="download_failed">Download Failed!</string>
+    <string name="no_internet">No Internet</string>
+    <string name="title_activity_web">Movie Details</string>
+    <string name="no_data">No Data</string>
+    <string name="imagemovie">ImageMovie</string>
+    <string name="list_of_movies">List of Movies</string>
+    <string name="search_by_date">Search By Date</string>
+    <string name="to_date">To Date</string>
+    <string name="from_date">From Date</string>
+    <string name="please_check_date">Please select the dates properly then click on search</string>
+    <string name="check_to_from_date">from date cannot be greater then to date</string>
+</resources>
