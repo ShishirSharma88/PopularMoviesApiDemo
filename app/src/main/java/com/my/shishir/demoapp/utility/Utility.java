@@ -30,7 +30,7 @@ public class Utility {
 
     public static final int ALL_DATA_LOADED = 2;
 
-    public static final String API_KEY = "";
+    public static final String API_KEY = "PLEASE USE YOUR OWN API KEY";
 
     public static final String BASE_URL = "https://api.themoviedb.org/";
 
